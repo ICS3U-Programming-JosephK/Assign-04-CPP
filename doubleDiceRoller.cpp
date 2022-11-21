@@ -94,7 +94,8 @@ int main() {
     }
     if (userAnswer == "n") {
         std::cout << "Thanks for playing.";
-        // else if none of the options above were inputted, display default message
+        // else if none of the options above
+        // were inputted, display default message
     } else {
         std::cout << "program has ended.";
     }
